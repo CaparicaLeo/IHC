@@ -1,0 +1,13 @@
+
+Família Tipografica:
+POPPINS - BOLD, MEDIUM e REGULAR
+
+TÍTULOS = BOLD 82pt
+SUBTÍTULOS = MEDIUM 32pt
+CORPO DE TEXTO = REGULAR 16pt
+
+Cores:
+Principais: #282C35 e #1A1F25
+Destaque: #FFAB2D
+Neutras: #C4C4C4, #E4E4E4, #FFFFFF
+Textos: #E4E4E4
