@@ -1,0 +1,32 @@
+/* estilo.css */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: center; /* Centraliza os itens verticalmente */
+    height: 100vh; /* Ocupa toda a altura da tela */
+    background-color: #f8f9fa; /* Cor de fundo suave */
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+.home-container h1 {
+    font-size: 48px;
+    color: #333; /* Cor do texto */
+    margin-bottom: 30px; /* Espaçamento abaixo do título */
+}
+
+.home-container a {
+    display: inline-block;
+    margin: 10px; /* Espaçamento entre os links */
+    padding: 12px 20px; /* Espaçamento interno dos links */
+    color: white; /* Cor do texto dos links */
+    background-color: #007bff; /* Cor de fundo dos botões */
+    border-radius: 5px; /* Bordas arredondadas */
+    text-decoration: none; /* Remove o sublinhado */
+    transition: background-color 0.3s; /* Transição suave ao passar o mouse */
+}
+
+.home-container a:hover {
+    background-color: #0056b3; /* Cor de fundo ao passar o mouse */
+}
